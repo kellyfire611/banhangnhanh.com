@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Trang chủ PHP</h1>
+    <h2>Dòng slogan nhỏ kh yêu cầu</h2>
 </body>
 </html>
